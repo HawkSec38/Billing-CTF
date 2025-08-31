@@ -114,8 +114,4 @@ This documentation presents a step-by-step breakdown of a **realistic penetratio
 
 **Disclaimer:** This documentation is intended for **educational purposes** and testing in **authorized environments only**. Unauthorized exploitation is illegal and unethical.
 
----
-
-I can also create a **shorter, LinkedIn-friendly version** highlighting the achievement and skills used, making it more shareable to a professional audience.
-
-Do you want me to draft that LinkedIn version as well?
+--
